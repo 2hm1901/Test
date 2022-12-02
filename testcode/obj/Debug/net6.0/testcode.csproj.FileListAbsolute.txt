@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\Code C#\testcode\testcode\bin\Debug\net6.0\testcode.exe
+C:\Users\Dell\Documents\Code C#\testcode\testcode\bin\Debug\net6.0\testcode.deps.json
+C:\Users\Dell\Documents\Code C#\testcode\testcode\bin\Debug\net6.0\testcode.runtimeconfig.json
+C:\Users\Dell\Documents\Code C#\testcode\testcode\bin\Debug\net6.0\testcode.dll
+C:\Users\Dell\Documents\Code C#\testcode\testcode\bin\Debug\net6.0\testcode.pdb
+C:\Users\Dell\Documents\Code C#\testcode\testcode\obj\Debug\net6.0\testcode.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Code C#\testcode\testcode\obj\Debug\net6.0\testcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Code C#\testcode\testcode\obj\Debug\net6.0\testcode.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Code C#\testcode\testcode\obj\Debug\net6.0\testcode.AssemblyInfo.cs
+C:\Users\Dell\Documents\Code C#\testcode\testcode\obj\Debug\net6.0\testcode.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Code C#\testcode\testcode\obj\Debug\net6.0\testcode.dll
+C:\Users\Dell\Documents\Code C#\testcode\testcode\obj\Debug\net6.0\refint\testcode.dll
+C:\Users\Dell\Documents\Code C#\testcode\testcode\obj\Debug\net6.0\testcode.pdb
+C:\Users\Dell\Documents\Code C#\testcode\testcode\obj\Debug\net6.0\testcode.genruntimeconfig.cache
+C:\Users\Dell\Documents\Code C#\testcode\testcode\obj\Debug\net6.0\ref\testcode.dll
